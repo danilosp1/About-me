@@ -15,7 +15,7 @@ export default function Games(){
                         <div className="main-text">O que eu jogo?</div>
                         <div className="soft-text">Resumindo, infelizmente sou dominado pelo vício criado pela Riot Games. Sim, fazem aproximadamente 6 anos que eu jogo isso e ainda sou prata, be like</div>
                         <div className="soft-text">Meus mains são esses dai do lado :D, se não conhecer, agradeça todos os dias por isso.</div>
-                        <div className="soft-text">Enfim, mas fora isso eu jogo de tudo, principalmente alguns como Stardew Valley</div>
+                        <div className="soft-text">Enfim, mas fora isso eu jogo de tudo, principalmente alguns casuais como Stardew Valley para relaxar.</div>
                     </div>
                     <Link to="/">Voltar para o inicio</Link>
                 </div>
