@@ -1,0 +1,33 @@
+
+.first-container .content {
+    height: 60%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.first-container .text .main-text span{
+    color: rgb(142, 210, 250);
+}
+
+.first-container .buttons {
+    height: 10%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+@media (max-width: 600px){
+    .first-container .buttons {
+        height: 70%;
+        flex-direction: column;
+    }
+
+    .first-container .buttons a {
+        width: 200px;
+    }
+}
