@@ -1,3 +1,5 @@
+## Site desenvolvido para treinamento. Ele é feito em React, com o objetivo de falar um pouco sobre mim, estando hospedado em https://about-me-danilo.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
